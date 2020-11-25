@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+    {
+      "appID": "J8A3SH72B3.com.tentimelimited.ios",
+      "paths": ["*", "/"]
+    }
+    ]
+  }
+}
